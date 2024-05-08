@@ -3,9 +3,13 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin-left: 500px;
+  margin-left: 230px;
 }
 
 .card {
   margin: 0 10px;
+}
+
+.custom-card .ant-card-meta-title {
+  color: white;
 }
